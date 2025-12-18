@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-15)
+## Unreleased (2025-12-18)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ce79dc0`](https://github.com/stdlib-js/stdlib/commit/ce79dc05e70a1a631c3d23c2f0d2127420537b38) - **bench:** refactor to use string interpolation in `array/base/filled4d-by` [(#9188)](https://github.com/stdlib-js/stdlib/pull/9188) _(by Rohit R Bhat)_
 -   [`6f85067`](https://github.com/stdlib-js/stdlib/commit/6f8506775cdf2b3edf740216340ff7a0a82677dc) - **test:** fix malformed test descriptions from strictEqual migration _(by Philipp Burckhardt)_
 -   [`a147b7d`](https://github.com/stdlib-js/stdlib/commit/a147b7d6ef754925120fcc7bdec2b40842a3615a) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`d3426a4`](https://github.com/stdlib-js/stdlib/commit/d3426a41ee92d8024bf7fc03d200aa98fb62a6f0) - **fix:** use correct dimensions for array _(by Philipp Burckhardt)_
@@ -39,9 +40,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Rohit R Bhat
 
 </section>
 
