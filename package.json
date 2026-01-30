@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-filled4d-by",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Create a filled four-dimensional nested array according to a provided callback function.",
   "license": "Apache-2.0",
   "author": {
